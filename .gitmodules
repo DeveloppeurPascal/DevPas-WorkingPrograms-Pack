@@ -1,0 +1,102 @@
+[submodule "Socket-Messaging-Code-Generator"]
+	path = Socket-Messaging-Code-Generator
+	url = https://github.com/DeveloppeurPascal/Socket-Messaging-Code-Generator.git
+[submodule "Fie-Frapic"]
+	path = Fie-Frapic
+	url = https://github.com/DeveloppeurPascal/Fie-Frapic.git
+[submodule "HTML-Writer"]
+	path = HTML-Writer
+	url = https://github.com/DeveloppeurPascal/HTML-Writer.git
+[submodule "XOR-Keys-Generator"]
+	path = XOR-Keys-Generator
+	url = https://github.com/DeveloppeurPascal/XOR-Keys-Generator.git
+[submodule "Swap-Keys-Generator"]
+	path = Swap-Keys-Generator
+	url = https://github.com/DeveloppeurPascal/Swap-Keys-Generator.git
+[submodule "Shift-Keys-Generator"]
+	path = Shift-Keys-Generator
+	url = https://github.com/DeveloppeurPascal/Shift-Keys-Generator.git
+[submodule "IDB-keys-Generator"]
+	path = IDB-keys-Generator
+	url = https://github.com/DeveloppeurPascal/IDB-keys-Generator.git
+[submodule "DProj2WinSetup"]
+	path = DProj2WinSetup
+	url = https://github.com/DeveloppeurPascal/DProj2WinSetup.git
+[submodule "LeTempsDUneTomate"]
+	path = LeTempsDUneTomate
+	url = https://github.com/DeveloppeurPascal/LeTempsDUneTomate.git
+[submodule "FMX-Notepad"]
+	path = FMX-Notepad
+	url = https://github.com/DeveloppeurPascal/FMX-Notepad.git
+[submodule "FMX-MultiPad"]
+	path = FMX-MultiPad
+	url = https://github.com/DeveloppeurPascal/FMX-MultiPad.git
+[submodule "GestionComptesPersonnels"]
+	path = GestionComptesPersonnels
+	url = https://github.com/DeveloppeurPascal/GestionComptesPersonnels.git
+[submodule "COVID-ContactTracing-RestauBar"]
+	path = COVID-ContactTracing-RestauBar
+	url = https://github.com/DeveloppeurPascal/COVID-ContactTracing-RestauBar.git
+[submodule "MonitoringTournamentPlayerScreen"]
+	path = MonitoringTournamentPlayerScreen
+	url = https://github.com/DeveloppeurPascal/MonitoringTournamentPlayerScreen.git
+[submodule "Liste-de-courses"]
+	path = Liste-de-courses
+	url = https://github.com/DeveloppeurPascal/Liste-de-courses.git
+[submodule "Planning-API"]
+	path = Planning-API
+	url = https://github.com/DeveloppeurPascal/Planning-API.git
+[submodule "Text2HTML"]
+	path = Text2HTML
+	url = https://github.com/DeveloppeurPascal/Text2HTML.git
+[submodule "GooglePlayDeveloperBannerGenerator"]
+	path = GooglePlayDeveloperBannerGenerator
+	url = https://github.com/DeveloppeurPascal/GooglePlayDeveloperBannerGenerator.git
+[submodule "ExeBulkSigning"]
+	path = ExeBulkSigning
+	url = https://github.com/DeveloppeurPascal/ExeBulkSigning.git
+[submodule "Folder2FMXImageList"]
+	path = Folder2FMXImageList
+	url = https://github.com/DeveloppeurPascal/Folder2FMXImageList.git
+[submodule "MD2HTML"]
+	path = MD2HTML
+	url = https://github.com/DeveloppeurPascal/MD2HTML.git
+[submodule "photo-album-generator"]
+	path = photo-album-generator
+	url = https://github.com/DeveloppeurPascal/photo-album-generator.git
+[submodule "aspirateur-de-site-web"]
+	path = aspirateur-de-site-web
+	url = https://github.com/DeveloppeurPascal/aspirateur-de-site-web.git
+[submodule "Fediverse-GET-URL-Tester"]
+	path = Fediverse-GET-URL-Tester
+	url = https://github.com/DeveloppeurPascal/Fediverse-GET-URL-Tester.git
+[submodule "LogNPass-app"]
+	path = LogNPass-app
+	url = https://github.com/DeveloppeurPascal/LogNPass-app.git
+[submodule "PicMobGenerator"]
+	path = PicMobGenerator
+	url = https://github.com/DeveloppeurPascal/PicMobGenerator.git
+[submodule "Promo-Verif"]
+	path = Promo-Verif
+	url = https://github.com/DeveloppeurPascal/Promo-Verif.git
+[submodule "Video-Title-Page-Generator"]
+	path = Video-Title-Page-Generator
+	url = https://github.com/DeveloppeurPascal/Video-Title-Page-Generator.git
+[submodule "Pic-Resize"]
+	path = Pic-Resize
+	url = https://github.com/DeveloppeurPascal/Pic-Resize.git
+[submodule "My-day-in-pictures"]
+	path = My-day-in-pictures
+	url = https://github.com/DeveloppeurPascal/My-day-in-pictures.git
+[submodule "Zicplay"]
+	path = Zicplay
+	url = https://github.com/DeveloppeurPascal/Zicplay.git
+[submodule "SUTOM_Helper"]
+	path = SUTOM_Helper
+	url = https://github.com/DeveloppeurPascal/SUTOM_Helper.git
+[submodule "YTVideoSeries"]
+	path = YTVideoSeries
+	url = https://github.com/DeveloppeurPascal/YTVideoSeries.git
+[submodule "App-Stores-Screen-Captures-Generator"]
+	path = App-Stores-Screen-Captures-Generator
+	url = https://github.com/DeveloppeurPascal/App-Stores-Screen-Captures-Generator.git
