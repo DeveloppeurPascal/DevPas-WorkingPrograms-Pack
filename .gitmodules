@@ -106,3 +106,6 @@
 [submodule "Video-Cutter"]
 	path = Video-Cutter
 	url = https://github.com/DeveloppeurPascal/Video-Cutter.git
+[submodule "Video-Merger"]
+	path = Video-Merger
+	url = https://github.com/DeveloppeurPascal/Video-Merger.git
