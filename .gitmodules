@@ -115,3 +115,6 @@
 [submodule "Spritesheet-Creator"]
 	path = Spritesheet-Creator
 	url = https://github.com/DeveloppeurPascal/Spritesheet-Creator.git
+[submodule "SVGFolder2DelphiUnit"]
+	path = SVGFolder2DelphiUnit
+	url = https://github.com/DeveloppeurPascal/SVGFolder2DelphiUnit.git
