@@ -8,6 +8,12 @@ This code repository simplify downloading a selection of repositories from [Deve
 
 It contains projects developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
 
+## Talks and conferences
+
+### Twitch
+
+Follow my development streams of software, video games, mobile applications and websites on [my Twitch channel](https://www.twitch.tv/patrickpremartin) or as replays on [Serial Streameur](https://serialstreameur.fr) mostly in French.
+
 ## Install
 
 If you download a ZIP file from GitHub it will be empty. You must use "git" command or a GUI to clone or fork this code repository with its submodules.
